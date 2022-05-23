@@ -1,0 +1,26 @@
+  CHART SERIES: Series 1
+    Chart Line Custom Data Selection = Off
+    Chart Series Type = Regular
+    Series Name = _0.001_0.001_0.001
+    Time Chart Expression = Time
+    Time Chart Location = /POINT:_0.001_0.001_0.001
+    Time Chart Type = Point
+    CHART LINE: Chart Line 1
+      Auto Chart Line Colour = On
+      Auto Chart Symbol Colour = On
+      Case Name = Case 7020_full
+      Chart FFT Line Type = Bars
+      Chart Line Colour = 1.0, 0.0, 0.0
+      Chart Line Style = Automatic
+      Chart Line Type = Lines
+      Chart Line Visibility = On
+      Chart Symbol Colour = 0.0, 1.0, 0.0
+      Chart Symbol Style = Automatic
+      Fill Area = On
+      Fill Area Options = Automatic
+      Is Valid = True
+      Line Name = _0.001_0.001_0.001
+      Use Automatic Line Naming = On
+    END
+  END
+  
